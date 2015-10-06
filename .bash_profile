@@ -133,8 +133,6 @@ alias gca='git commit --amend'
 alias gr='git rebase'
 alias gri='git rebase -i'
 alias grh='git reset --hard'
-alias dgw02='ssh insanehong@dgw02.nhnsystem.com'
-alias ncon1='ssh insanehong@ncon1.nhnsystem.com'
 
 [[ -s `brew --prefix`/etc/autojump.sh ]] && . `brew --prefix`/etc/autojump.sh
 export PATH="$HOME/.jenv/bin:$PATH"
